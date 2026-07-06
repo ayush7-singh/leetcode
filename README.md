@@ -21,6 +21,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ayush7-singh/leetcode/tree/master/0127-word-ladder) |
 | [0802-find-eventual-safe-states](https://github.com/ayush7-singh/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
 |  |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ayush7-singh/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ayush7-singh/leetcode/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ayush7-singh/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
