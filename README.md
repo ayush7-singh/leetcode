@@ -5,10 +5,12 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayush7-singh/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayush7-singh/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayush7-singh/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayush7-singh/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ayush7-singh/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush7-singh/leetcode/tree/master/0213-house-robber-ii) |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush7-singh/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayush7-singh/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
