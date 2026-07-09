@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayush7-singh/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ayush7-singh/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ayush7-singh/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ayush7-singh/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush7-singh/leetcode/tree/master/0213-house-robber-ii) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush7-singh/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0063-unique-paths-ii](https://github.com/ayush7-singh/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/ayush7-singh/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush7-singh/leetcode/tree/master/0213-house-robber-ii) |
 ## Binary Search
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayush7-singh/leetcode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/ayush7-singh/leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
