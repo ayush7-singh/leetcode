@@ -1,32 +1,50 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
+    int firstOcc(vector<int>& nums, int target) {
         int low = 0, high = nums.size() - 1;
-        int mid = -1;
+        int ans = -1;
 
         while (low <= high) {
-            mid = low + (high - low) / 2;
+            int mid = low + (high - low) / 2;
 
-            if (nums[mid] == target)
-                break;
-            else if (nums[mid] < target)
+            if (nums[mid] == target) {
+                ans = mid;
+                high = mid - 1;      // Search on the left
+            }
+            else if (nums[mid] < target) {
                 low = mid + 1;
-            else
+            }
+            else {
                 high = mid - 1;
+            }
         }
 
-        if (low > high)
-            return {-1, -1};
+        return ans;
+    }
 
-        int first = mid;
-        int last = mid;
+    int lastOcc(vector<int>& nums, int target) {
+        int low = 0, high = nums.size() - 1;
+        int ans = -1;
 
-        while (first > 0 && nums[first - 1] == target)
-            first--;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
 
-        while (last < nums.size() - 1 && nums[last + 1] == target)
-            last++;
+            if (nums[mid] == target) {
+                ans = mid;
+                low = mid + 1;       // Search on the right
+            }
+            else if (nums[mid] < target) {
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
+            }
+        }
 
-        return {first, last};
+        return ans;
+    }
+
+    vector<int> searchRange(vector<int>& nums, int target) {
+        return {firstOcc(nums, target), lastOcc(nums, target)};
     }
 };
