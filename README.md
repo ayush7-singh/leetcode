@@ -57,6 +57,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush7-singh/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/ayush7-singh/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush7-singh/leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/ayush7-singh/leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/ayush7-singh/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ayush7-singh/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush7-singh/leetcode/tree/master/0213-house-robber-ii) |
@@ -89,11 +90,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayush7-singh/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayush7-singh/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush7-singh/leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/ayush7-singh/leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
