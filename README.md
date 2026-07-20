@@ -63,6 +63,7 @@
 | [0213-house-robber-ii](https://github.com/ayush7-singh/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ayush7-singh/leetcode/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush7-singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1260-shift-2d-grid](https://github.com/ayush7-singh/leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ayush7-singh/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush7-singh/leetcode/tree/master/0064-minimum-path-sum) |
+| [1260-shift-2d-grid](https://github.com/ayush7-singh/leetcode/tree/master/1260-shift-2d-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush7-singh/leetcode/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ayush7-singh/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
