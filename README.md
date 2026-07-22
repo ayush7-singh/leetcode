@@ -19,6 +19,7 @@
 | [0213-house-robber-ii](https://github.com/ayush7-singh/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ayush7-singh/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush7-singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayush7-singh/leetcode/tree/master/0494-target-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush7-singh/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
@@ -67,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/ayush7-singh/leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/ayush7-singh/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush7-singh/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ayush7-singh/leetcode/tree/master/0494-target-sum) |
 | [1260-shift-2d-grid](https://github.com/ayush7-singh/leetcode/tree/master/1260-shift-2d-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush7-singh/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush7-singh/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ayush7-singh/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
