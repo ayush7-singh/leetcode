@@ -7,6 +7,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/ayush7-singh/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayush7-singh/leetcode/tree/master/0070-climbing-stairs) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayush7-singh/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0494-target-sum](https://github.com/ayush7-singh/leetcode/tree/master/0494-target-sum) |
 | [1260-shift-2d-grid](https://github.com/ayush7-singh/leetcode/tree/master/1260-shift-2d-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush7-singh/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayush7-singh/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush7-singh/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayush7-singh/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Ordered Set
 |  |
 | ------- |
